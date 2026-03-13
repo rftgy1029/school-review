@@ -1,4 +1,6 @@
-# UNIVERSAL DESIGN FOR EVERYONE 본문 17
+# UNIVERSAL DESIGN FOR EVERYONE
+**17p**
+
 face - (어려움이나 상황에) 직면하다
 
 inconvient - 불편한
