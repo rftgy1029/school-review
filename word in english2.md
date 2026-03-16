@@ -51,6 +51,10 @@ intuitively - 직관적으로
 
 cognitively - 인지적으로
 
+minimize - 최소화
+
+sufficient - 충분한
+
 equitably - 공평하게
 
 flexibly - 유연하게
@@ -67,13 +71,13 @@ hazard - 위험(지역)
 
 adverse - 불리한
 
-incorporrate - 포함하다
+incorporate - 포함하다
 
-ramp - 경사로
+ramp - 경사도
 
 **20p**
 
-invaluable - 귀중한
+invaluable - 
 
 assistive - 
 
@@ -91,3 +95,24 @@ accommodate - 수용하다
 
 adjust - 
 
+**22p**
+
+utilize - 
+
+integrate - 
+
+enhance -
+
+trait -
+
+stretchy - 
+
+independently
+
+temporary - 
+
+**23p**
+
+extensively -
+
+on board - 
