@@ -73,19 +73,19 @@ adverse - 불리한
 
 incorporate - 포함하다
 
-ramp - 경사도
+ramp - 경사로
 
 **20p**
 
-invaluable - 귀중한
+invaluable - 매우 유용한
 
-assistive - 보조
+assistive - 도음이 되는
 
-crutch - 버팀목
+crutch - 목발
 
-tactitle - 촉각
+tactitle - 촉각의
 
-impaired - 손상된
+impaired - 장애가 있는
 
 **21**
 
