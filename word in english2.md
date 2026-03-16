@@ -77,27 +77,27 @@ ramp - 경사도
 
 **20p**
 
-invaluable - 
+invaluable - 귀중한
 
-assistive - 
+assistive - 보조
 
-crutch
+crutch - 버팀목
 
-tactitle - 
+tactitle - 촉각
 
-impaired 
+impaired - 손상된
 
 **21**
 
-implement - 
+implement - 구현하다
 
 accommodate - 수용하다
 
-adjust - 
+adjust - 조정하다
 
 **22p**
 
-utilize - 
+utilize - 활용하다
 
 integrate - 
 
