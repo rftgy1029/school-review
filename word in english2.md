@@ -99,20 +99,20 @@ adjust - 조정하다
 
 utilize - 활용하다
 
-integrate - 
+integrate - 통합하다
 
-enhance -
+enhance - 향상시키다
 
-trait -
+trait - 특성
 
-stretchy - 
+stretchy - 줄무늬
 
-independently
+independently - 독립적으로
 
-temporary - 
+temporary - 일시적인
 
 **23p**
 
-extensively -
+extensively - 널리
 
-on board - 
+on board - 선상에서
