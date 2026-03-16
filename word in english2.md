@@ -51,3 +51,43 @@ intuitively - 직관적으로
 
 cognitively - 인지적으로
 
+equitably - 공평하게
+
+flexibly - 유연하게
+
+intuitvely - 직관적으로
+
+cognitively - 인지적으로
+
+minimize - 최소화
+
+sufficient - 충분한
+
+hazard - 위험(지역)
+
+adverse - 불리한
+
+incorporrate - 포함하다
+
+ramp - 경사로
+
+**20p**
+
+invaluable - 귀중한
+
+assistive - 
+
+crutch
+
+tactitle - 
+
+impaired 
+
+**21**
+
+implement - 
+
+accommodate - 수용하다
+
+adjust - 
+
