@@ -27,7 +27,7 @@ facility - 시설
 
 limitation - 한계
 
-contract - 병에 걸리다
+contract - 계약
 
 struggle to - ~하려고 애쓰다
 
