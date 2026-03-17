@@ -115,4 +115,4 @@ temporary - 일시적인
 
 extensively - 널리
 
-on board - 선상에서
+on board - 탑승
