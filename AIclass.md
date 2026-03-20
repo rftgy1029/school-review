@@ -2,4 +2,6 @@
 
 [1-2. 인공지능의 원리](https://docs.google.com/document/d/1_wrVWvC4ahHs8VeYDhCTN7043SsisVnrdAH2BZnx3TY/edit?usp=sharing)
 
-[2-1. 탐색을 활용한 문제 해결의](
+[2-1. 탐색을 활용한 문제 해결의](https://docs.google.com/document/d/1twcLbaIuH6Q6BxdDhwtzBaun5JzNBKCNZFW5_sKaAn8/edit?usp=sharing)
+
+[2-2. 지식의 표현과 추론](https://docs.google.com/document/d/1O7At-drlX21GMS8xntjff3fDfJzbDQ36YwN2NXCxvgk/edit?usp=sharing)
